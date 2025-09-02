@@ -8,7 +8,7 @@ Welcome to my curated collection of hands-on AWS projects. Each folder contains 
 
 | Project | Description |
 |--------|-------------|
-| [SimuLearn – Beach Wave Reliability](./Project1-BeachWaveReliability) | Improve reliability of a web page using AWS architecture |
+| [SimuLearn – Beach Wave Reliability](./Project1-BeachWaveReliability) | Hosting a static website on Amazon S3 |
 | more coming soon..... |
 
 ## 🧠 Skills Demonstrated
@@ -20,7 +20,7 @@ Welcome to my curated collection of hands-on AWS projects. Each folder contains 
 ## 🙋‍♂️ Author
 
 **MaheshChary**  
-Cloud Security Learner | SOC Analyst | AI Governance Enthusiast  
+Cloud Security Learner | AI Governance Enthusiast  
 📎 [LinkedIn](https://www.linkedin.com/in/jaligama-mahesh-chary-8460b5233/)
 📘 [GitHub](https://github.com/Mahesh230892)
 
