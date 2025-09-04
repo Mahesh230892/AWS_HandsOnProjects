@@ -9,6 +9,7 @@ Welcome to my curated collection of hands-on AWS projects. Each folder contains 
 | Project | Description |
 |--------|-------------|
 | [SimuLearn – Beach Wave Reliability](./Project1-BeachWaveReliability) | Hosting a static website on Amazon S3 |
+| [SimuLearn - AWS Computing Solution](./Project2-provide greater computing power and memory capacity) | Type of connecting methods to Amazon EC2 |
 | more coming soon..... |
 
 ## 🧠 Skills Demonstrated
